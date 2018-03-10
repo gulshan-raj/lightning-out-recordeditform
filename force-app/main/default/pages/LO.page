@@ -7,7 +7,7 @@
             $Lightning.use("c:LightningOutApp", function() {
                 $Lightning.createComponent("c:AccountEditor", {
                     recordId: recordId
-                }, "record");
+                }, "record")
             })
         </script>
     </head>
