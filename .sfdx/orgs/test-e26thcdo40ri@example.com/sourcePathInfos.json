@@ -1,0 +1,225 @@
+[
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1520684017000,
+            "changeTime": 1520684017000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1520684017000,
+            "changeTime": 1520684017000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1520684248000,
+            "changeTime": 1520684248000,
+            "contentHash": "c4c6c0ef28bf57554721b0282d8a7c6a14237a39",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1520684045000,
+            "changeTime": 1520684045000,
+            "contentHash": "685406a8202beced2b791188546aba615eb498cb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1520065399000,
+            "changeTime": 1520684044000,
+            "contentHash": "3078037996311b681d659cff6f71d8f432df9ad0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor/AccountEditor.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor/AccountEditor.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2460,
+            "modifiedTime": 1520684767000,
+            "changeTime": 1520684767000,
+            "isWorkspace": false,
+            "contentHash": "fd5d423603fcff6f6f45d017e0b6a5b2b5f6de0f"
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor/AccountEditor.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor/AccountEditor.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520065399000,
+            "changeTime": 1520684044000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor/AccountEditorController.js",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/AccountEditor/AccountEditorController.js",
+            "isDirectory": false,
+            "size": 444,
+            "modifiedTime": 1520065399000,
+            "changeTime": 1520684044000,
+            "contentHash": "0b821cad6bc36b93bc025e073e09c00fcce6c9f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/LightningOutApp",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/LightningOutApp",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1520683939000,
+            "changeTime": 1520683939000,
+            "contentHash": "c0d71c233517b001931dd5d9754175eaddc3691e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/LightningOutApp/LightningOutApp.app",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/LightningOutApp/LightningOutApp.app",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1520683951000,
+            "changeTime": 1520683951000,
+            "contentHash": "de7f7761c5606fa7bae1d8e67b02c31e1adba1a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/LightningOutApp/LightningOutApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/aura/LightningOutApp/LightningOutApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1520683864000,
+            "changeTime": 1520683864000,
+            "contentHash": "d8cdab19a5f3443cf63c846a05b8eb66e7349e4a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1520684248000,
+            "changeTime": 1520684248000,
+            "contentHash": "3c1f61f6c4240640c7cb5e3864b4bb131d44c9e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/pages/LO.page",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/pages/LO.page",
+            "isDirectory": false,
+            "size": 489,
+            "modifiedTime": 1520684661000,
+            "changeTime": 1520684661000,
+            "contentHash": "557981369cd501a5c2d438e80083e4c867bc48dc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/pages/LO.page-meta.xml",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm/force-app/main/default/pages/LO.page-meta.xml",
+            "isDirectory": false,
+            "size": 172,
+            "modifiedTime": 1520684248000,
+            "changeTime": 1520684248000,
+            "contentHash": "523d37994ee8eff28c2fd75dcddb41b45e7560ce",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bluetel/Documents/lightning-out-recordEditForm",
+        {
+            "sourcePath": "/Users/bluetel/Documents/lightning-out-recordEditForm",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1520684017000,
+            "changeTime": 1520684017000,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

@@ -1,0 +1,8 @@
+scratch-org-def: config/project-scratch-def.json
+assign-permset: false
+run-apex-tests: false
+delete-scratch-org: false
+show-scratch-org-url: true
+open-path: c/LightningOutApp.app
+data-plans:
+  - data/Account-Contact-plan.json

@@ -1,0 +1,17 @@
+<apex:page standardController="Contact" showHeader="true" sidebar="true">
+    <head>
+        <apex:includeLightning />
+        <script>
+            const recordId = '{!Contact.Id}'
+
+            $Lightning.use("c:LightningOutApp", function() {
+                $Lightning.createComponent("c:AccountEditor", {
+                    recordId: recordId
+                }, "record");
+            })
+        </script>
+    </head>
+    <body>
+        <div id="record"></div>
+    </body>
+</apex:page>
