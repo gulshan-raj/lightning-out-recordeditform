@@ -10,4 +10,5 @@ Edit the record and change something other than the account name. Press save.  T
 
 This page has an error. You might just need to refresh it. [Error in $A.getCallback() [Cannot read property 'querySelectorAll' of null]]
 
+The record does display correctly and can also be edited successfully, but these errors show. 
 
